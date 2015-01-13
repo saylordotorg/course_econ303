@@ -145,5 +145,3 @@ Economist,* and *Business Week.*  Other important resources are the U.S.
 [Bureau of Labor Statistics](http://www.bls.gov/) website or a [labor
 and economics blog](http://iirl-labor-economic-news.blogspot.com/)
 maintained at UC Berkeley.
-
-### Course Overview
