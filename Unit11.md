@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON303: Labor Economics"
+course_description: "An introduction to the theory, data, and policy issues related to labor markets as well as empirical analysis of labor market outcomes. Topics include: compensating wage differentials, labor mobility, unions, unemployment, human capital investments, and discrimination."
+next: ../Unit12
+previous: ../Unit10
+---
 -   **Unit 11: Compensation and Productivity**  
 
      *Labor market contracts and the overall compensation packages that

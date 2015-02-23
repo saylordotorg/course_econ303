@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON303: Labor Economics"
+course_description: "An introduction to the theory, data, and policy issues related to labor markets as well as empirical analysis of labor market outcomes. Topics include: compensating wage differentials, labor mobility, unions, unemployment, human capital investments, and discrimination."
+next: ../../../
+previous: ../Unit11
+---
 -   **Unit 12: Final Exam**  
     -   **Final Exam: The Saylor Foundation's ECON303 Final Exam**
 
