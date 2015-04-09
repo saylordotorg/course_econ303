@@ -1,2 +1,0 @@
-# Labor Market Equilibrium
-
