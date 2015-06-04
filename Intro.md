@@ -152,3 +152,18 @@ Economist,* and *Business Week.*  Other important resources are the U.S.
 [Bureau of Labor Statistics](http://www.bls.gov/) website or a [labor
 and economics blog](http://iirl-labor-economic-news.blogspot.com/)
 maintained at UC Berkeley.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/econ303/Unit01/)
+- [Unit 2](https://legacy.saylor.org/econ303/Unit02/)
+- [Unit 3](https://legacy.saylor.org/econ303/Unit03/)
+- [Unit 4](https://legacy.saylor.org/econ303/Unit04/)
+- [Unit 5](https://legacy.saylor.org/econ303/Unit05/)
+- [Unit 6](https://legacy.saylor.org/econ303/Unit06/)
+- [Unit 7](https://legacy.saylor.org/econ303/Unit07/)
+- [Unit 8](https://legacy.saylor.org/econ303/Unit08/)
+- [Unit 9](https://legacy.saylor.org/econ303/Unit09/)
+- [Unit 10](https://legacy.saylor.org/econ303/Unit10/)
+- [Unit 11](https://legacy.saylor.org/econ303/Unit11/)
+- [Unit 12](https://legacy.saylor.org/econ303/Unit12/)
