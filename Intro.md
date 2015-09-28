@@ -170,3 +170,4 @@ maintained at UC Berkeley.
 - [Unit 10](https://legacy.saylor.org/econ303/Unit10/)
 - [Unit 11](https://legacy.saylor.org/econ303/Unit11/)
 - [Unit 12](https://legacy.saylor.org/econ303/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ECON/ECON303/ECON303-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ECON/ECON303/ECON303-FinalExam-Answers.html)
