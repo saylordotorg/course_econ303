@@ -139,7 +139,7 @@ previous: ../Unit07
 
         Link: United States Bureau of Labor Statistics’ “[Earnings of
         Women and Men by Race and Ethnicity,
-        2007](http://www.saylor.org/site/wp-content/uploads/2012/06/ECON303-8.1.2.1.pdf)”
+        2007](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ECON303-8.1.2.1.pdf)”
         (PDF)  
             
          Instructions:  Please click on the above link and study the
@@ -171,7 +171,7 @@ previous: ../Unit07
 
         Link: The Open University: Learning Space: “[Economics Explains
         Discrimination in the Labour
-        Market](http://www.saylor.org/site/wp-content/uploads/2012/06/ECON303-8.2.1.pdf)”
+        Market](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ECON303-8.2.1.pdf)”
         (PDF)  
             
          Instructions:  Please click on the above link and then, from
@@ -241,7 +241,7 @@ previous: ../Unit07
 
         Link: The Open University: Learning Space: “[Economics Explains
         Discrimination in the Labour
-        Market](http://www.saylor.org/site/wp-content/uploads/2011/07/ECON303-8.2.3.pdf)”
+        Market](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON303-8.2.3.pdf)”
         (PDF)  
             
          Instructions:  Please click on the above link and then, from

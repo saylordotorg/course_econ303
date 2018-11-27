@@ -104,7 +104,7 @@ previous: ../Unit08
 
         Link: Professor Robert Schenk's *CyberEconomics*: “[Overview:
         Resource
-        Markets](http://www.saylor.org/site/wp-content/uploads/2012/06/ECON303-9.2.pdf)”
+        Markets](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ECON303-9.2.pdf)”
         (PDF)  
             
          Instructions: Clicking on the link above will take you to the
